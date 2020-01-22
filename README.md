@@ -2,7 +2,7 @@
 Repository created to show projects during my learning in data path and content sharing. Feel free for suggestions and forks
 
 ## Projects
-* [Titanic](#Kaggle-Competition:-Titanic---Machine-Learning-from-Disaster)
+* [Titanic](#Kaggle-Competition:-Titanic-Machine-Learning-from-Disaster)
 * [Leicester](#Surprising-Leicester-City-2015/2016-Season)
 
 ## Kaggle Competition: Titanic - Machine Learning from Disaster
@@ -12,8 +12,10 @@ Techniques/Algorithms
 * EDA
 * Data Visualization
 * Logistic Regression
+
 Language 
 * Python
+
 Libraries
 * Pandas
 * Matplotlib
@@ -27,8 +29,10 @@ Techniques/Algorithms
 * Web Scraping
 * EDA
 * Data Visualization
+
 Language
 * Python
+
 Libraries
 * BeautifulSoup (BS)
 * re
