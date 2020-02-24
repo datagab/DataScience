@@ -1,0 +1,67 @@
+Melbourne Housing Market.
+
+O problema de negócio é: 
+
+Escolher uma casa para morar em Melbourne e análises de tendências.
+A fonte de dados será um arquivo .csv que passará pelo processo de Análise Exploratória de Dados.
+O resultado esperado será receber um preço específico de acordo com as caracteristicas da casa em que vou morar.
+
+Insights
+
+1)  Construção das casas ao longo do tempo.
+    Preço das casas ao longo do tempo.
+
+Verificação de uma bolha imobiliária.
+
+2) Variáveis que contribuem ao preço
+Preço x região
+Preço x type 
+Preço x quantidade de quartos
+
+Casas com o mesmo preço - diferenças ao longo das regiões.
+
+3) ML Model: Prever preço de casa a partir das caracteristicas.
+
+CARACTERISTICAS DAS VARIAVEIS
+
+Some Key Details
+Suburb: Suburb
+
+Address: Address
+
+Rooms: Number of rooms
+
+Price: Price in Australian dollars
+
+Method: S - property sold; SP - property sold prior; PI - property passed in; PN - sold prior not disclosed; SN - sold not disclosed; NB - no bid; VB - vendor bid; W - withdrawn prior to auction; SA - sold after auction; SS - sold after auction price not disclosed. N/A - price or highest bid not available.
+
+Type: br - bedroom(s); h - house,cottage,villa, semi,terrace; u - unit, duplex; t - townhouse; dev site - development site; o res - other residential.
+
+SellerG: Real Estate Agent
+
+Date: Date sold
+
+Distance: Distance from CBD in Kilometres
+
+Regionname: General Region (West, North West, North, North east ...etc)
+
+Propertycount: Number of properties that exist in the suburb.
+
+Bedroom2 : Scraped # of Bedrooms (from different source)
+
+Bathroom: Number of Bathrooms
+
+Car: Number of carspots
+
+Landsize: Land Size in Metres
+
+BuildingArea: Building Size in Metres
+
+YearBuilt: Year the house was built
+
+CouncilArea: Governing council for the area
+
+Lattitude: Self explanitory
+
+Longtitude: Self explanitory
+
